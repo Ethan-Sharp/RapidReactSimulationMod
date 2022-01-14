@@ -143,7 +143,8 @@ var KEY_4 = 52, KEY_5 = 53, KEY_6 = 54, KEY_7 = 55, KEY_8 = 56, KEY_9 = 57;
 var ORG;
 
 ORG = "";
-ORG = "https://ethan-sharp.github.io/RapidReactSimulationMod/";
+ORG = "";
+// ORG = "https://ethan-sharp.github.io/RapidReactSimulationMod/src/";
 
 var GFX = ORG + "gfx/";
 var BKG = ORG + "bkg/"
