@@ -146,7 +146,7 @@ ORG = "";
 ORG = "R:\\[ROBOTZ]\\Github\\RapidReactSimulationMod\\docs\\";
 
 var GFX = ORG + "gfx/";
-var BKG = ORG + "bkg/"
+var BKG = ORG + "bkg/";
 var SND = ORG + "snd/";
 var MUS = ORG + "mus/";
 
