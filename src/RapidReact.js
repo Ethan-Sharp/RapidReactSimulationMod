@@ -80,7 +80,7 @@ function shoot()
 function startgame()
 {
     setbackground('sky');
-    setgravity(0, 10);
+    setgravity(0, 9.80665);
     
     view.width = 8;
     view.height = 6;

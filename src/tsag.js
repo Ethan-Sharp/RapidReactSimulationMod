@@ -143,7 +143,7 @@ var KEY_4 = 52, KEY_5 = 53, KEY_6 = 54, KEY_7 = 55, KEY_8 = 56, KEY_9 = 57;
 var ORG;
 
 ORG = "";
-ORG = "http://sharonacademy.org/tsagame/";
+ORG = "https://raw.githubusercontent.com/Ethan-Sharp/RapidReactSimulationMod/docs";
 
 var GFX = ORG + "gfx/";
 var BKG = ORG + "bkg/"
