@@ -100,8 +100,8 @@ function startgame()
     ground.y = 6;
     ground.width = 20;
     ground.height = 4;
-    ground.fillcolor = 'rgb(84, 84, 84)';
-    ground.strokecolor = 'rgb(84, 84, 84)';
+    ground.fillcolor = 'green';
+    ground.strokecolor = 'green';
     
     robot = new Thing();
     robot.width = 0.80;

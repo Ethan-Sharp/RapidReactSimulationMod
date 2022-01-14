@@ -142,7 +142,7 @@ var KEY_4 = 52, KEY_5 = 53, KEY_6 = 54, KEY_7 = 55, KEY_8 = 56, KEY_9 = 57;
 
 var ORG;
 
-ORG = "src/";
+ORG = "";
 
 var GFX = ORG + "gfx/";
 var BKG = ORG + "bkg/"
